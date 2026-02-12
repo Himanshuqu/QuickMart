@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Demo User",
+      "email": "demo@quickmart.com",
+      "password": "demo123",
+      "createdAt": "01/30/2026, 10:00:00 AM"
+    },
+    {
+      "id": 2,
+      "fullname": "Test User",
+      "email": "test@quickmart.com",
+      "password": "test123",
+      "createdAt": "01/30/2026, 10:05:00 AM"
+    }
+  ],
+  "carts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "items": [],
+      "createdAt": "01/30/2026, 10:00:00 AM",
+      "updatedAt": "01/30/2026, 10:00:00 AM"
+    }
+  ]
+}
